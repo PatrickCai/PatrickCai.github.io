@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “每周见闻一[latchkey kid, 犹太教烛台, Yo-Yo Ma及其他]”
+title:  每周见闻一
 date:   2019-03-30 16:17:04 +0800
 categories: 双周见闻
 permalink: /weekly1/
